@@ -1,4 +1,4 @@
-# personal_portfolio
+# Personal Portfolio
 
 สร้างขึ้นเพื่อส่งงานวิชา SC3133301 Internetworking 1/2569
 
